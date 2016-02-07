@@ -1,0 +1,2 @@
+include ':ExternalLauncher'
+include ':MyApplication'
